@@ -1,0 +1,565 @@
+{
+    "regions": [
+        { 
+            "name": "Central",
+            "counties": [ 
+                { 
+                    "name": "Nyandarua",
+                    "constituencies": [
+                        { "name": "NTHAWA" },
+                        { "name": "MUMINJI" },
+                        { "name": "EVURORE" }
+                    ]
+                },
+                { 
+                    "name": "Nyeri",
+                    "constituencies": [
+                        { "name": "WABERI" },
+                        { "name": "GALBET" },
+                        { "name": "TOWNSHIP" },
+                        { "name": "IFTIN" }
+                    ]
+                },
+                { 
+                    "name": "Kirinyaga",
+                    "constituencies": [
+                        { "name": "MWEA" },
+                        { "name": "GICHUGU" },
+                        { "name": "NDIA" },
+                        { "name": "KIRINYAGA CENTRAL" }
+                    ]
+                },
+                { 
+                    "name": "Muranga",
+                    "constituencies": [
+                        { "name": "KANGEMA" },
+                        { "name": "MATHIOYA" },
+                        { "name": "KIHARU" },
+                        { "name": "KIGUMO" },
+                        { "name": "MARAGWA" },
+                        { "name": "KANDARA" },
+                        { "name": "GATANGA" }
+                    ]
+                },
+                { 
+                    "name": "Kiambu",
+                    "constituencies": [
+                        { "name": "GATUNDU SOUTH" },
+                        { "name": "GATUNDU NORTH" },
+                        { "name": "JUJA" },
+                        { "name": "THIKA TOWN" },
+                        { "name": "RUIRU" },
+                        { "name": "GITHUNGURI" },
+                        { "name": "KIAMBU" },
+                        { "name": "KIAMBAA" },
+                        { "name": "KABETE" },
+                        { "name": "KIKUYU" },
+                        { "name": "LIMURU" },
+                        { "name": "LARI" }
+                    ]
+                }
+            ]
+        },
+        { 
+            "name": "Coast",
+            "counties": [
+                { 
+                    "name": "Mombasa",
+                    "constituencies": [
+                        { "name": "KISAUNI" },
+                        { "name": "CHANGAMWE" },
+                        { "name": "MVITA" },
+                        { "name": "LIKONI" },
+                        { "name": "JOMVU" },
+                        { "name": "NYALI" }
+                    ]
+                },
+                { 
+                    "name": "Kwale",
+                    "constituencies": [
+                        { "name": "MATUGA" },
+                        { "name": "KINAGO" },
+                        { "name": "MSAMBWENI" },
+                        { "name": "LUNGA LUNGA" }
+                    ]
+                },
+                { 
+                    "name": "Kilifi",
+                    "constituencies": [
+                        { "name": "RABAI" },
+                        { "name": "MAGARINI" },
+                        { "name": "MALINDI" },
+                        { "name": "KALOLENI" },
+                        { "name": "KILIFI NORTH" },
+                        { "name": "GANZE" },
+                        { "name": "KILIFI SOUTH" }
+                    ]
+                },
+                { 
+                    "name": "Tana River",
+                    "constituencies": [
+                        { "name": "GALOLE" },
+                        { "name": "BURA" },
+                        { "name": "GARSEN" }
+                    ]
+                },
+                { 
+                    "name": "Lamu",
+                    "constituencies": [
+                        { "name": "LAMU EAST" },
+                        { "name": "LAMU WEST" }
+                    ]
+                },
+                { 
+                    "name": "Taita–Taveta",
+                    "constituencies": [
+                        { "name": "TAVETA" },
+                        { "name": "WUNDANYI" },
+                        { "name": "MWATATE" },
+                        { "name": "VOI" }
+                    ]
+                }
+            ]
+        },
+        { 
+            "name": "Eastern",
+            "counties": [
+                { 
+                    "name": "Marsabit",
+                    "constituencies": [
+                        { "name": "MOYALE" },
+                        { "name": "NORTH HORR" },
+                        { "name": "SAKU" },
+                        { "name": "LAISAMIS" }
+                    ]
+                },
+                { 
+                    "name": "Isiolo",
+                    "constituencies": [
+                        { "name": "ISIOLO NORTH" },
+                        { "name": "ISIOLO SOUTH" }
+                    ]
+                },
+                { 
+                    "name": "Meru",
+                    "constituencies": [
+                        { "name": "IGEMBE SOUTH" },
+                        { "name": "IGEMBE CENTRAL" },
+                        { "name": "IGEMBE NORTH" },
+                        { "name": "TIGANIA WEST" },
+                        { "name": "TIGANIA EAST" },
+                        { "name": "NORTH IMENTI" },
+                        { "name": "BUURI" },
+                        { "name": "CENTRAL IMENTI" },
+                        { "name": "SOUTH IMENTI" }
+                    ]
+                },
+                { 
+                    "name": "Tharaka-Nithi",
+                    "constituencies": [
+                        { "name": "MAARA" },
+                        { "name": "CHUKA/IGAMBANGOMBE" },
+                        { "name": "THARAKA" }
+                    ]
+                },
+                { 
+                    "name": "Embu",
+                    "constituencies": [
+                        { "name": "MANYATTA" },
+                        { "name": "RUNYENJES" },
+                        { "name": "MBEERE SOUTH" },
+                        { "name": "MBEERE NORTH" }
+                    ]
+                },
+                { 
+                    "name": "Kitui",
+                    "constituencies": [
+                        { "name": "MWINGI NORTH" },
+                        { "name": "MWINGI WEST" },
+                        { "name": "MWINGI CENTRAL" },
+                        { "name": "KITUI WEST" },
+                        { "name": "KITUI RURAL" },
+                        { "name": "KITUI CENTRAL" },
+                        { "name": "KITUI EAST" },
+                        { "name": "KITUI SOUTH" }
+                    ]
+                },
+                { 
+                    "name": "Machakos",
+                    "constituencies": [
+                        { "name": "MASINGA" },
+                        { "name": "YATTA" },
+                        { "name": "KANGUNDO" },
+                        { "name": "MATUNGULU" },
+                        { "name": "KATHIANI" },
+                        { "name": "MAVOKO" },
+                        { "name": "MACHAKOS TOWN" },
+                        { "name": "MWALA" }
+                    ]
+                },
+                { 
+                    "name": "Makueni",
+                    "constituencies": [
+                        { "name": "MBOONI" },
+                        { "name": "KILOME" },
+                        { "name": "KAITI" },
+                        { "name": "MAKUENI" },
+                        { "name": "KIBWEZI WEST" },
+                        { "name": "KIBWEZI EAST" }
+                    ]
+                }
+            ]
+        },
+        { 
+            "name": "Nairobi",
+            "counties": [
+                { 
+                    "name": "Nairobi",
+                    "constituencies": [
+                        { "name": "WESTLANDS" },
+                        { "name": "DAGORETTI NORTH" },
+                        { "name": "DAGORETTI SOUTH" },
+                        { "name": "LANGATA" },
+                        { "name": "KIBRA" },
+                        { "name": "ROYSAMBU" },
+                        { "name": "KASARANI" },
+                        { "name": "RUARAKA" },
+                        { "name": "EMBAKASI SOUTH" },
+                        { "name": "EMBAKASI NORTH" },
+                        { "name": "EMBAKASI CENTRAL" },
+                        { "name": "EMBAKASI EAST" },
+                        { "name": "EMBAKASI WEST" },
+                        { "name": "MAKADARA" },
+                        { "name": "KAMUKUNJI" },
+                        { "name": "STAREHE" },
+                        { "name": "MATHARE" }
+                    ]
+                }
+            ]
+         },
+        { 
+            "name": "North Eastern",
+            "counties": [
+                { 
+                    "name": "Garissa",
+                    "constituencies": [
+                        { "name": "GARISSA TOWNSHIP" },
+                        { "name": "BALAMBALA" },
+                        { "name": "LAGDERA" },
+                        { "name": "DADAAB" },
+                        { "name": "FAFI" },
+                        { "name": "IJARA" }
+                    ]
+                },
+                { 
+                    "name": "Wajir",
+                    "constituencies": [
+                        { "name": "WAJIR NORTH" },
+                        { "name": "WAJIR EAST" },
+                        { "name": "TARBAJ" },
+                        { "name": "WAJIR WEST" },
+                        { "name": "ELDAS" },
+                        { "name": "WAJIR SOUTH" }
+                    ]
+                },
+                { 
+                    "name": "Mandera",
+                    "constituencies": [
+                        { "name": "MANDERA WEST" },
+                        { "name": "BANISSA" },
+                        { "name": "MANDERA NORTH" },
+                        { "name": "MANDERA SOUTH" },
+                        { "name": "MANDERA EAST" },
+                        { "name": "LAFEY" }
+                    ]
+                }
+            ]
+        },
+        { 
+            "name": "Nyanza",
+            "counties": [
+                { 
+                    "name": "Siaya",
+                    "constituencies": [
+                        { "name": "UGENYA" },
+                        { "name": "UGUNJA" },
+                        { "name": "ALEGO USONGA" },
+                        { "name": "GEM" },
+                        { "name": "BONDO" },
+                        { "name": "RARIEDA" }
+                    ]
+                },
+                { 
+                    "name": "Kisumu",
+                    "constituencies": [
+                        { "name": "KISUMU EAST" },
+                        { "name": "KISUMU WEST" },
+                        { "name": "KISUMU CENTRAL" },
+                        { "name": "SEME" },
+                        { "name": "NYANDO" },
+                        { "name": "MUHORONI" },
+                        { "name": "NYAKACH" }
+                    ]
+                },
+                { 
+                    "name": "Homa Bay",
+                    "constituencies": [
+                        { "name": "KASIPUL" },
+                        { "name": "KABONDO KASIPUL" },
+                        { "name": "KARACHUONYO" },
+                        { "name": "RANGWE" },
+                        { "name": "HOMA BAY TOWN" },
+                        { "name": "NDHIWA" },
+                        { "name": "SUBA NORTH" },
+                        { "name": "SUBA SOUTH" }
+                    ]
+                },
+                { 
+                    "name": "Migori",
+                    "constituencies": [
+                        { "name": "RONGO" },
+                        { "name": "AWENDO" },
+                        { "name": "SUNA EAST" },
+                        { "name": "SUNA WEST" },
+                        { "name": "URIRI" },
+                        { "name": "NYATIKE" },
+                        { "name": "KURIA WEST" },
+                        { "name": "KURIA EAST" }
+                    ]
+                },
+                { 
+                    "name": "Kisii",
+                    "constituencies": [
+                        { "name": "BONCHARI" },
+                        { "name": "SOUTH MUGIRANGO" },
+                        { "name": "BOMACHOGE BORABU" },
+                        { "name": "BOBASI" },
+                        { "name": "BOMACHOGE CHACHE" },
+                        { "name": "NYARIBARI MASABA" },
+                        { "name": "NYARIBARI CHACHE" },
+                        { "name": "KITUTU CHACHE NORTH" },
+                        { "name": "KITUTU CHACHE SOUTH" }
+                    ]
+                },
+                { 
+                    "name": "Nyamira",
+                    "constituencies": [
+                        { "name": "KITUTU MASABA" },
+                        { "name": "WEST MUGIRANGO" },
+                        { "name": "NORTH MUGIRANGO" },
+                        { "name": "BORABU" }
+                    ]
+                }
+            ]
+        },
+        { 
+            "name": "Rift Valley",
+            "counties": [
+                { 
+                    "name": "Turkana",
+                    "constituencies": [
+                        { "name": "TURKANA NORTH" },
+                        { "name": "TURKANA WEST" },
+                        { "name": "TURKANA CENTRAL" },
+                        { "name": "LOIMA" },
+                        { "name": "TURKANA SOUTH" },
+                        { "name": "TURKANA EAST" }
+                    ]
+                },
+                { 
+                    "name": "West Pokot",
+                    "constituencies": [
+                        { "name": "KAPENGURIA" },
+                        { "name": "SIGOR" },
+                        { "name": "KACHELIBA" },
+                        { "name": "POKOT SOUTH" }
+                    ]
+                },
+                { 
+                    "name": "Samburu",
+                    "constituencies": [
+                        { "name": "SAMBURU WEST" },
+                        { "name": "SAMBURU NORTH" },
+                        { "name": "SAMBURU EAST" }
+                    ]
+                },
+                { 
+                    "name": "Trans-Nzoia",
+                    "constituencies": [
+                        { "name": "KWANZA" },
+                        { "name": "ENDEBESS" },
+                        { "name": "SABOTI" },
+                        { "name": "KIMININI" },
+                        { "name": "CHERANGANY" }
+                    ]
+                },
+                { 
+                    "name": "Uasin Gishu",
+                    "constituencies": [
+                        { "name": "SOY" },
+                        { "name": "TURBO" },
+                        { "name": "MOIBEN" },
+                        { "name": "AINABKOI" },
+                        { "name": "KAPSERET" },
+                        { "name": "KESSES" }
+                    ]
+                },
+                { 
+                    "name": "Elgeyo-Marakwet",
+                    "constituencies": [
+                        { "name": "MARAKWET EAST" },
+                        { "name": "MARAKWET WEST" },
+                        { "name": "KEIYO NORTH" },
+                        { "name": "KEIYO SOUTH" }
+                    ]
+                },
+                { 
+                    "name": "Nandi",
+                    "constituencies": [
+                        { "name": "TINDERET" },
+                        { "name": "ALDAI" },
+                        { "name": "NANDI HILLS" },
+                        { "name": "CHESUMEI" },
+                        { "name": "EMGWEN" },
+                        { "name": "MOSOP" }
+                    ]
+                },
+                { 
+                    "name": "Baringo",
+                    "constituencies": [
+                        { "name": "TIATY" },
+                        { "name": "BARINGO NORTH" },
+                        { "name": "BARINGO CENTRAL" },
+                        { "name": "BARINGO SOUTH" },
+                        { "name": "MOGOTIO" },
+                        { "name": "ELDAMA RAVINE" }
+                    ]
+                },
+                { 
+                    "name": "Laikipia",
+                    "constituencies": [
+                        { "name": "LAIKIPIA WEST" },
+                        { "name": "LAIKIPIA EAST" },
+                        { "name": "LAIKIPIA NORTH" }
+                    ]
+                },
+                { 
+                    "name": "Nakuru",
+                    "constituencies": [
+                        { "name": "MOLO" },
+                        { "name": "NJORO" },
+                        { "name": "NAIVASHA" },
+                        { "name": "GILGIL" },
+                        { "name": "KURESOI SOUTH" },
+                        { "name": "KURESOI NORTH" },
+                        { "name": "SUBUKIA" },
+                        { "name": "RONGAI" },
+                        { "name": "BAHATI" },
+                        { "name": "NAKURU TOWN WEST" },
+                        { "name": "NAKURU TOWN EAST" }
+                    ]
+                },
+                { 
+                    "name": "Narok",
+                    "constituencies": [
+                        { "name": "KILGORIS" },
+                        { "name": "EMURUA DIKIRR" },
+                        { "name": "NAROK NORTH" },
+                        { "name": "NAROK EAST" },
+                        { "name": "NAROK SOUTH" },
+                        { "name": "NAROK WEST" }
+                    ]
+                },
+                { 
+                    "name": "Kajiado",
+                    "constituencies": [
+                        { "name": "KAJIADO NORTH" },
+                        { "name": "KAJIADO CENTRAL" },
+                        { "name": "KAJIADO EAST" },
+                        { "name": "KAJIADO WEST" },
+                        { "name": "KAJIADO SOUTH" }
+                    ]
+                },
+                { 
+                    "name": "Kericho",
+                    "constituencies": [
+                        { "name": "KIPKELION EAST" },
+                        { "name": "KIPKELION WEST" },
+                        { "name": "AINAMOI" },
+                        { "name": "BURETI" },
+                        { "name": "BELGUT" },
+                        { "name": "SIGOWET/SOIN" }
+                    ]
+                },
+                { 
+                    "name": "Bomet",
+                    "constituencies": [
+                        { "name": "SOTIK" },
+                        { "name": "CHEPALUNGU" },
+                        { "name": "BOMET EAST" },
+                        { "name": "BOMET CENTRAL" },
+                        { "name": "KONOIN" }
+                    ]
+                }
+            ]
+        },
+        { 
+            "name": "Western",
+            "counties": [
+                { 
+                    "name": "Kakamega",
+                    "constituencies": [
+                        { "name": "LUGARI" },
+                        { "name": "LIKUYANI" },
+                        { "name": "MALAVA" },
+                        { "name": "LURAMBI" },
+                        { "name": "NAVAKHOLO" },
+                        { "name": "MUMIAS WEST" },
+                        { "name": "MUMIAS EAST" },
+                        { "name": "MATUNGU" },
+                        { "name": "BUTERE" },
+                        { "name": "KHWISERO" },
+                        { "name": "SHINYALU" },
+                        { "name": "IKOLOMANI" }
+                    ]
+                },
+                { 
+                    "name": "Vihiga",
+                    "constituencies": [
+                        { "name": "VIHIGA" },
+                        { "name": "SABATIA" },
+                        { "name": "HAMISI" },
+                        { "name": "LUANDA" },
+                        { "name": "EMUHAYA" }
+                    ]
+                },
+                { 
+                    "name": "Bungoma",
+                    "constituencies": [
+                        { "name": "MT. ELGON" },
+                        { "name": "SIRISIA" },
+                        { "name": "KABUCHAI" },
+                        { "name": "BUMULA" },
+                        { "name": "KANDUYI" },
+                        { "name": "WEBUYE EAST" },
+                        { "name": "WEBUYE WEST" },
+                        { "name": "KIMILILI" },
+                        { "name": "TONGAREN" }
+                    ]
+                },
+                { 
+                    "name": "Busia",
+                    "constituencies": [
+                        { "name": "TESO NORTH" },
+                        { "name": "TESO SOUTH" },
+                        { "name": "NAMBALE" },
+                        { "name": "MATAYOS" },
+                        { "name": "BUTULA" },
+                        { "name": "FUNYULA" },
+                        { "name": "BUDALANGI" }
+                    ]
+                }
+            ]
+        }
+    ]
+}
